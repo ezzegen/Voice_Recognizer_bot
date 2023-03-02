@@ -1,0 +1,3 @@
+moviepy==1.0.3
+Pyrogram==2.0.59
+SpeechRecognition==3.8.1
